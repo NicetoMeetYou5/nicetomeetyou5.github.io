@@ -1,31 +1,34 @@
-# GRC Professional Portfolio: [Your Name]
+# GRC Professional Portfolio: [Meet Patel]
 
 ## About Me
 
-Hello, I'm [Your Name], a Governance, Risk, and Compliance (GRC) professional with a focus on AWS cloud security. I'm passionate about building secure cloud environments and ensuring compliance with industry standards and regulations.
+[Hello, I'm Meet Patel, an information security professional with a focus on AWS cloud security. I'm passionate about building secure cloud environments and ensuring compliance with industry standards and regulations.
 
-[Brief professional summary: 2-3 sentences about your background, current role, and career interests]
+I am currently pursuing a Master's Degree in Cybersecurity and Information Assurance to help bridge the skill gap necessary to work in this industry. I have learned that I enjoy the cloud security space - specifically IAM and GRC.]
 
 ## Contact Information
 
-- **Email**: your.email@example.com
+- **Email**: mpatel36@wgu.edu
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **Location**: [City, State/Country]
+- **GitHub**: [https://github.com/NicetoMeetYou5](https://github.com/NicetoMeetYou5)
+- **Location**: [Washington, DC Metro Area]
 
 ## Professional Summary
 
-[Expand on your professional background with 3-4 sentences about your experience, skills, and what you're looking to achieve in your GRC career]
+I started my career off as a Business Analyst, primarily focused on writing and testing requirements around APIs for web services for my client. That experience sparked my curiosity about how different applications are able to communicate over the internet, which led me to get interested in the utility of the cloud and event-driven architecture.
+
+I knew I wanted to work in cybersecurity but did not know which of the domains to focus on, so I took the Security+ and CISSP certifications to better understand what I wanted to focus on and I enjoyed the IAM and GRC domains the most, which are both important in the cloud.
+
+I am currently in the MSCIA program, studying for the AWS SAA, doing labs and working on projects to augment my understanding of the cloud. I hope to gain a greater understanding of how the pieces of the puzzle come together within the cloud to help enable security throughout your organization.
 
 ## Technical Skills
 
 ### Cloud Platforms
 - Amazon Web Services (AWS)
-- [Other cloud platforms you have experience with]
 
 ### Security & Compliance
 - AWS Security Services (GuardDuty, Security Hub, IAM, Config)
-- Compliance Frameworks (e.g., NIST, CIS, PCI-DSS, HIPAA)
+- Compliance Frameworks (NIST, CIS, PCI-DSS, HIPAA, SOC2)
 - Risk Assessment and Management
 - Security Control Implementation
 
@@ -37,53 +40,15 @@ Hello, I'm [Your Name], a Governance, Risk, and Compliance (GRC) professional wi
 
 ## Certifications
 
-- [Certification Name] - [Issuing Organization] - [Year]
-- [Certification Name] - [Issuing Organization] - [Year]
-- [Add your AWS certifications and other relevant credentials]
-
-## Projects
-
-### [Project 1 Title]
-
-**Description**: [Brief description of the project and its purpose]
-
-**Skills Demonstrated**:
-- [Key skill or technology used]
-- [Key skill or technology used]
-- [Key skill or technology used]
-
-**Implementation Details**:
-- [Specific action you took or component you implemented]
-- [Specific action you took or component you implemented]
-- [Specific action you took or component you implemented]
-
-**Results**:
-- [Outcome or impact of the project]
-- [Include metrics if applicable]
-
-### [Project 2 Title]
-
-**Description**: [Brief description of the project and its purpose]
-
-**Skills Demonstrated**:
-- [Key skill or technology used]
-- [Key skill or technology used]
-- [Key skill or technology used]
-
-**Implementation Details**:
-- [Specific action you took or component you implemented]
-- [Specific action you took or component you implemented]
-- [Specific action you took or component you implemented]
-
-**Results**:
-- [Outcome or impact of the project]
-- [Include metrics if applicable]
+- [CISSP Associate] - [ISC2] - [2023]
+- [Security+] - [CompTIA] - [2023]
+- [CC] - [ISC2] - [2025]
 
 ## AWS Security Implementations
 
 ### [Implementation 1: AWS Account Governance]
 
-**Lab Completion Date**: [Month Year]
+**Lab Completion Date**: [Sep 2025]
 
 **Overview**: Implemented foundational security controls for AWS account governance following best practices from the AWS Well-Architected Framework.
 
@@ -98,44 +63,23 @@ Hello, I'm [Your Name], a Governance, Risk, and Compliance (GRC) professional wi
 - Compliance automation
 - Security monitoring configuration
 
-[Link to detailed implementation documentation or GitHub repository]
-
-### [Implementation 2: Another AWS Security Implementation]
-
-**Lab Completion Date**: [Month Year]
-
-**Overview**: [Brief description of what you implemented]
-
-**Key Implementations**:
-- [Specific component implemented]
-- [Specific component implemented]
-- [Specific component implemented]
-
-**Skills Demonstrated**:
-- [Specific skill demonstrated]
-- [Specific skill demonstrated]
-- [Specific skill demonstrated]
-
-[Link to detailed implementation documentation or GitHub repository]
-
 ## Education
 
-- **[Degree Name]** - [Institution Name] - [Graduation Year]
-- **[Other relevant education or training]** - [Institution Name] - [Completion Year]
+- **[B.S. in Information Systems and Operations Management]** - [GMU] - [May 2021]
+- **[M.S. in Cybersecurity and Information Assurance]** - [WGU] - [In Progress]
 
 ## Professional Development
 
 ### Courses and Training
-- [Course/Training Name] - [Provider] - [Year]
-- [Course/Training Name] - [Provider] - [Year]
-
-### Conferences and Events
-- [Conference/Event Name] - [Year]
-- [Conference/Event Name] - [Year]
+- [Ultimate AWS Certified Solutions Architect Associate] - [Udemy] - [2025]
+- [Introduction to Bash] - [Datacamp] - [2025]
+- [Introduction to Python] - [Datacamp] - [2025]
 
 ## Career Goals
 
-[Brief paragraph about your short-term and long-term career goals in the GRC field]
+My short-term goal includes getting an internship within the cloud security/compliance space.
+
+My long-term goal includes helping organizations automate their manual compliance processes to enable security and reduce operational overhead using AWS. 
 
 ---
 
