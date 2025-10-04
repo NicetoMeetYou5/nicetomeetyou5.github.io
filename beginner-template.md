@@ -2,7 +2,7 @@
 
 ## About Me
 
-[Hello, I'm Meet Patel, an information security professional with a focus on AWS cloud security. I'm passionate about building secure cloud environments and ensuring compliance with industry standards and regulations.
+Hello, I'm Meet Patel, an information security professional with a focus on AWS cloud security. I'm passionate about building secure cloud environments and ensuring compliance with industry standards and regulations.
 
 I am currently pursuing a Master's Degree in Cybersecurity and Information Assurance to help bridge the skill gap necessary to work in this industry. I have learned that I enjoy the cloud security space - specifically IAM and GRC.]
 
@@ -22,7 +22,11 @@ I knew I wanted to work in cybersecurity but did not know which of the domains t
 I am currently in the MSCIA program, studying for the AWS SAA, doing labs and working on projects to augment my understanding of the cloud. I hope to gain a greater understanding of how the pieces of the puzzle come together within the cloud to help enable security throughout your organization.
 
 ## Technical Skills
-
+- Python
+- Bash
+- SQL
+- Splunk
+  
 ### Cloud Platforms
 - Amazon Web Services (AWS)
 
@@ -39,7 +43,6 @@ I am currently in the MSCIA program, studying for the AWS SAA, doing labs and wo
 - Monitoring and Alerting
 
 ## Certifications
-
 - [CISSP Associate] - [ISC2] - [2023]
 - [Security+] - [CompTIA] - [2023]
 - [CC] - [ISC2] - [2025]
@@ -68,18 +71,14 @@ I am currently in the MSCIA program, studying for the AWS SAA, doing labs and wo
 - **[B.S. in Information Systems and Operations Management]** - [GMU] - [May 2021]
 - **[M.S. in Cybersecurity and Information Assurance]** - [WGU] - [In Progress]
 
-## Professional Development
-
 ### Courses and Training
 - [Ultimate AWS Certified Solutions Architect Associate] - [Udemy] - [2025]
 - [Introduction to Bash] - [Datacamp] - [2025]
 - [Introduction to Python] - [Datacamp] - [2025]
 
 ## Career Goals
-
-My short-term goal includes getting an internship within the cloud security/compliance space.
-
-My long-term goal includes helping organizations automate their manual compliance processes to enable security and reduce operational overhead using AWS. 
+- My short-term goal includes getting an internship within the cloud security/compliance space.
+- My long-term goal includes helping organizations automate their manual compliance processes to enable security and reduce operational overhead using AWS. 
 
 ---
 
