@@ -1,5 +1,3 @@
-# Security Professional Portfolio: Meet Patel
-
 ## About Me
 
 Hello, I'm Meet Patel, an information security professional with a focus on AWS cloud security. I'm passionate about building secure cloud environments and ensuring compliance with industry standards and regulations.
