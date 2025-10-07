@@ -20,8 +20,9 @@ I knew I wanted to work in cybersecurity but did not know which of the domains t
 I am currently in the MSCIA program, studying for the AWS SAA, doing labs and working on projects to augment my understanding of the cloud. I hope to gain a greater understanding of how the pieces of the puzzle come together within the cloud to help enable security throughout your organization.
 
 ## Technical Skills
-- Python (AWS Lambda, policies written in JSON)
-- CloudFormation (Written in YAML for provisioning resources)
+- Python (AWS Lambda)
+- JSON (Polices written in JSON)
+- CloudFormation (Templates written in YAML for provisioning resources)
 - AWS CLI 
 - Bash
 - SQL
