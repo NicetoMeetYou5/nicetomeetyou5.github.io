@@ -78,8 +78,8 @@ I am currently in the MSCIA program, studying for the AWS SAA, doing labs and wo
 - Introduction to Python - Datacamp - 2025
 
 ## Career Goals
-- My short-term goal includes getting an internship within the cloud security/compliance space.
-- My long-term goal includes helping organizations automate their manual compliance processes to enable security and reduce operational overhead using AWS. 
+- Short-term, I would want to expand my knowledge of the cloud and compliance automation to help companies achieve and maintain their compliance within the cloud. 
+- Long-term, I aspire to become a GRC leader who can bridge the gap between technical security implementation and business compliance requirements, helping organizations build secure and compliant cloud environments at scale.
 
 ---
 
