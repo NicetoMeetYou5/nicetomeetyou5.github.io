@@ -45,7 +45,7 @@ I am currently in the MSCIA program, studying for the AWS SAA, doing labs and wo
 
 ## Certifications
 - CISSP Associate - ISC2 - 2023
-- Security+ - CompTIA - 2023
+- CompTIA Security + - CompTIA - 2023
 - CC - ISC2 - 2025
 
 ## AWS Security Implementations
