@@ -77,6 +77,46 @@ I am currently in the MSCIA program, studying for the AWS SAA, doing labs and wo
 - Introduction to Bash - Datacamp - 2025
 - Introduction to Python - Datacamp - 2025
 
+## Last Minute Flight Check List
+
+A security-focused checklist for traveling professionals to protect sensitive data and devices before and during travel.
+
+### Device Security
+- [ ] Enable full-disk encryption on laptop and mobile devices
+- [ ] Ensure all devices are updated with the latest OS and security patches
+- [ ] Enable screen lock with strong PIN/password on all devices
+- [ ] Enable remote wipe capability (e.g., Find My Device, MDM)
+- [ ] Remove sensitive data or use a travel-specific "burner" device if traveling to high-risk regions
+
+### Account & Access Security
+- [ ] Enable MFA on all critical accounts (email, cloud consoles, banking)
+- [ ] Revoke or minimize active AWS/cloud sessions and permissions not needed during travel
+- [ ] Rotate credentials for any accounts accessed from public networks
+- [ ] Log out of sensitive applications and browsers
+
+### Network Security
+- [ ] Install and configure a trusted VPN client
+- [ ] Disable auto-connect to open Wi-Fi networks
+- [ ] Turn off Bluetooth and AirDrop when not in use
+- [ ] Avoid using public USB charging stations (use personal charger or a USB data blocker)
+
+### Data Protection
+- [ ] Back up all critical files to a secure, encrypted location (e.g., encrypted S3 bucket)
+- [ ] Remove or encrypt any sensitive documents from the device
+- [ ] Review and minimize data stored in browser autofill and password manager sync
+
+### Cloud & Infrastructure
+- [ ] Review active AWS EC2/RDS instances and stop any not needed during travel
+- [ ] Verify CloudTrail and GuardDuty are active and alerts are forwarded to email/SMS
+- [ ] Check Security Hub for any open critical findings before departing
+- [ ] Ensure budget alerts are in place to catch unexpected resource usage
+
+### Post-Travel
+- [ ] Change passwords for accounts accessed over public or untrusted networks
+- [ ] Review CloudTrail logs for any unexpected API activity during travel period
+- [ ] Re-enable any permissions or resources suspended before travel
+- [ ] Update and patch devices as needed after return
+
 ## Career Goals
 - Short-term, I would want to expand my knowledge of the cloud and compliance automation to help companies achieve and maintain their compliance within the cloud. 
 - Long-term, I aspire to become a GRC leader who can bridge the gap between technical security implementation and business compliance requirements, helping organizations build secure and compliant cloud environments at scale.
